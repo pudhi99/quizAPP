@@ -1,0 +1,27 @@
+.option {
+  border: none;
+  list-style: none;
+  margin-bottom: 15px;
+  color: #ffffff;
+  background-color: #1150bd;
+  width: 300px;
+  height: 50px;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  padding-right: 15px;
+  padding-left: 15px;
+  border-radius: 15px;
+}
+.option-card {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.correct {
+  background-color: green;
+}
+.False {
+  background-color: red;
+}
