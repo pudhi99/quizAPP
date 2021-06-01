@@ -54,11 +54,13 @@ class FetchItem extends Component {
     await this.setState({ selectedOptionState: value });
     if (correctAnswer !== value) {
       updatingAnswers(0, 1);
+      this.setState({ yes: false });
       this.setState((prevState) => ({
         wrongAnswer: prevState.wrongAnswer + 1,
       }));
     } else if (correctAnswer === value) {
       updatingAnswers(1, 0);
+      this.setState({ yes: true });
       this.setState((prevState) => ({
         correctAnswerState: prevState.correctAnswerState + 1,
       }));
