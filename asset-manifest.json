@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pudhi99/quizAPP.git/static/css/main.072f5455.chunk.css",
+    "main.js": "/pudhi99/quizAPP.git/static/js/main.9c63de8d.chunk.js",
+    "main.js.map": "/pudhi99/quizAPP.git/static/js/main.9c63de8d.chunk.js.map",
+    "runtime-main.js": "/pudhi99/quizAPP.git/static/js/runtime-main.b8cfd446.js",
+    "runtime-main.js.map": "/pudhi99/quizAPP.git/static/js/runtime-main.b8cfd446.js.map",
+    "static/js/2.5f5665ed.chunk.js": "/pudhi99/quizAPP.git/static/js/2.5f5665ed.chunk.js",
+    "static/js/2.5f5665ed.chunk.js.map": "/pudhi99/quizAPP.git/static/js/2.5f5665ed.chunk.js.map",
+    "static/js/3.0c236e4a.chunk.js": "/pudhi99/quizAPP.git/static/js/3.0c236e4a.chunk.js",
+    "static/js/3.0c236e4a.chunk.js.map": "/pudhi99/quizAPP.git/static/js/3.0c236e4a.chunk.js.map",
+    "index.html": "/pudhi99/quizAPP.git/index.html",
+    "static/css/main.072f5455.chunk.css.map": "/pudhi99/quizAPP.git/static/css/main.072f5455.chunk.css.map",
+    "static/js/2.5f5665ed.chunk.js.LICENSE.txt": "/pudhi99/quizAPP.git/static/js/2.5f5665ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8cfd446.js",
+    "static/js/2.5f5665ed.chunk.js",
+    "static/css/main.072f5455.chunk.css",
+    "static/js/main.9c63de8d.chunk.js"
+  ]
+}
